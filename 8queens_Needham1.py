@@ -1,5 +1,4 @@
 #Natasha Needham
-#CS441 Winter 2021
 #Python 8 Queens Program
 import random
 
